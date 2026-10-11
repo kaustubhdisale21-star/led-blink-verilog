@@ -30,7 +30,8 @@ In simulation each light stays on for 6 clock cycles so the whole cycle fits in 
 
 I ran the testbench in EcrioniX and read the waveform. The `state` signal steps through 0, 1, 2 and back to 0, and each time it changes, the matching light turns on and the other two turn off.
 
-![Waveform](Traffic_Light_Waveform.png)
+![Waveform, part 1](Trafficlight_controller.png)
+![Waveform, part 2](Trafficlight_controller%282%29.png)
 
 ## What I learned
 
