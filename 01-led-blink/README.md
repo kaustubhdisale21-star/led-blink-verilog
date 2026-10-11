@@ -24,6 +24,7 @@ I checked it two ways.
 1. **Waveform:** I watched the counter climb and the LED toggle at the target.
 2. **Circuit view in DigitalJS:** I stepped through it click by click and watched the LED change.
 
+![Testbench and waveform](Led_Blink_Testbench.png)
 ![Waveform](Led_Blink_Waveform.png)
 ![Schematic](Led_Blink_Schematic.png)
 
