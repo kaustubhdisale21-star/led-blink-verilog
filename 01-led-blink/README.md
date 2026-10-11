@@ -10,7 +10,7 @@ There's also a reset input, so the circuit always starts from a known state.
 
 ## Note on the target value
 
-In the simulation I set the target to 10 so the blink is easy to see in a waveform. On a real 50 MHz clock you'd use about 50,000,000 for a blink of roughly one second. That's why the counter is 26 bits wide.
+In the simulation I set the target to 10 so the blink is easy to see in a waveform. On a real 50 MHz clock you'd use about 50,000,000 for a blink of roughly one second. That's why the counter is 26 bits wide. In the DigitalJS demo I lowered it to 1 so the LED toggles faster.
 
 ## Files
 
