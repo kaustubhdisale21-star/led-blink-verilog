@@ -7,6 +7,7 @@ Small digital design projects I'm building while learning Verilog and chip desig
 | # | Project | What it shows |
 |---|---------|---------------|
 | 01 | [LED Blink](01-led-blink) | Counter, clock divider, reset |
+| 02 | [Traffic Light Controller](02-traffic-light) | Finite state machine, case statements |
 
 More projects will be added here as I finish them.
 
